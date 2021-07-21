@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @homeromeirelesjunior
+- 👋 Hi, I’m @homeromeirelesjunior (Homero Meireles Junior)
 - 👀 I’m interested in learn more about coding, to work as a team and solve problems in general.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning JavaScript, HTML and CSS.
 - 💞️ I’m looking to collaborate on any cool project that I can make a difference.
 - 📫 How to reach me on:  [Linkedin](https://www.linkedin.com/in/homero-meireles-junior-05b027158/)
 
